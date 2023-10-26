@@ -4,4 +4,4 @@ Este repositório foi criado para publicação de todos os códigos já produzid
 
 Nele contém códigos feitos por mim desde o 1º Periodo ao último! 
 
-#### Padrões de Projetos  -> [Acesse diretamente aqui](https://github.com/TIOSAMBR/Iphone/new/main?readme=1)https://github.com/TIOSAMBR/Iphone/new/main?readme=1)
+#### Padrões de Projetos  -> [Acesse diretamente aqui](https://github.com/TIOSAMBR/Iphone)
