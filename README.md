@@ -1,8 +1,8 @@
 # Sobre este repositório!
 
-#### Tarefa - Iphone
+#### Tarefa - IPHONE
 
-Site Online -> [Iphone](https://tiosambr.github.io/Iphone/)
+Site Online -> [IPHONE](https://tiosambr.github.io/Iphone/)
 
 Este repositório foi criado para publicação de todos os códigos já produzidos durante minha graduação em Tecnologia em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Morrinhos!
 
