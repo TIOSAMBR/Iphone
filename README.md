@@ -1,6 +1,8 @@
 # Sobre este repositório!
 
-Site Online -> [HOTEL (RESORT)](https://tiosambr.github.io/Iphone/)
+#### Tarefa - Iphone
+
+Site Online -> [Iphone](https://tiosambr.github.io/Iphone/)
 
 Este repositório foi criado para publicação de todos os códigos já produzidos durante minha graduação em Tecnologia em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Morrinhos!
 
